@@ -3,4 +3,4 @@ Trabalho de Programação Web II - Turma 2°A - Linguagens: HTML/CSS/JAVASCRIPT/
 
 :email: lara.e.lua5@gmail.com
 
-O trabalho será realizado em dupla para entrega no final de Outubro com toda funcionalidade.
+O trabalho será realizado em dupla para entrega no final de Outubro 2022 com todas as funcionalidades.
